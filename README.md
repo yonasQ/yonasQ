@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <br/> <br/>
 
 <table>
-  <tr>
+<!--   <tr>
     <td>
       <a href="https://www.github.com/yonasQ">
      <img src="https://github-readme-stats.vercel.app/api?username=yonasQ&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="yonasQ" />
@@ -60,18 +60,18 @@ Here are some ideas to get you started:
        <img src ="http://github-readme-streak-stats.herokuapp.com?user=yonasQ&hide_border=true&theme=tokyonight" />
       </a>
     </td>
-  </tr>
+  </tr> -->
   <tr>
     <td>
       <a href="https://www.github.com/yonasQ">
        <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=yonasQ&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
       </a>
     </td>
-<!--      <td>
+<!--     <td>
        <a href="https://www.github.com/thinkswell">
        <img src ="https://github-readme-stats.vercel.app/api/pin/?username=thinkswell&repo=javascript-mini-projects&theme=tokyonight&show_icons=true&hide_border=true" />
       </a>
-    </td> -->
+    </td>  -->
   </tr>
 </table>
 <p align="center"> 
