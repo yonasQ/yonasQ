@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  -->
 
-- 🌱 I’m currently learning Flutter. 
+- 🌱 I’m currently learning GCP. 
 - 💬 Ask me about anything 👨‍💻Golang
 - 📫 Mail me at [yonaskemon012@gmail.com](mailto:yonaskemon01@gmail.com)
 - ⚡ Fun fact about me: John Wick of Full stack Development with specialization on backend development(Man of Focus, Determination, and Sheer Will) 😉
