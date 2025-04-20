@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning GCP. 
 - 💬 Ask me about anything 👨‍💻Golang
-- 📫 Mail me at [yonaskemon012@gmail.com](mailto:yonaskemon01@gmail.com)
+- 📫 Mail me at [yonaskemon01@gmail.com](mailto:yonaskemon01@gmail.com)
 - ⚡ Fun fact about me: John Wick of Full stack Development with specialization on backend development(Man of Focus, Determination, and Sheer Will) 😉
 
 
